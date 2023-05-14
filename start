@@ -1,0 +1,2 @@
+sudo /etc/init.d/mysql restart 
+php -S localhost:8080
