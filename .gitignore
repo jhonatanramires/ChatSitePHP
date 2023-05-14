@@ -1,2 +1,4 @@
 # exclude everything
 php/images/*
+# except the file 
+!php/images
