@@ -1,1 +1,2 @@
-./php/images/*
+# exclude everything
+php/images/*
